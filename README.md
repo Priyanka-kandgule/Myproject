@@ -1,4 +1,4 @@
 # Myproject
 this is my first git repository.
 <br>
-author - priyanka k
+author - priyanka kandgule
